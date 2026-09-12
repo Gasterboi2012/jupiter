@@ -1,0 +1,6 @@
+[General]
+LogoPath=/etc/xdg/dislogo.png
+Website=https://github.com/Gasterboi2012/jupiter
+Version=0.1
+Variant=Beta
+ShowBuild=true   
