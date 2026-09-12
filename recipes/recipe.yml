@@ -9,8 +9,14 @@ modules:
   - type: files
     files:
       - source: system
-        destination: / 
-
+        destination: /
+        
+  - type: os-release
+    properties:
+      ID: jupiter
+      NAME: Jupiter
+      PRETTY_NAME: Jupiter
+      
   - type: dnf
     repos:
       nonfree: negativo17
