@@ -32,7 +32,7 @@ modules:
         - firefox
         - firefox-langpacks 
         
-  - type:
+  - type: akmods
     install: []
     nvidia-driver: nvidia-open
     
