@@ -25,7 +25,11 @@ modules:
       packages:
         - firefox
         - firefox-langpacks 
-
+        
+  - type:
+    install: []
+    nvidia-driver: nvidia-open
+    
   - type: default-flatpaks
     configurations:
       - notify: false
