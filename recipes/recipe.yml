@@ -2,7 +2,7 @@
 name: jupiter
 description: Opinionated bootc distro.
 
-base-image: ghcr.io/ublue-os/kinoite-main
+base-image: ghcr.io/blue-build/base-images/fedora-kinoite-nvidia-open
 image-version: latest 
 
 modules:
@@ -35,10 +35,6 @@ modules:
         - firefox
         - firefox-langpacks 
         
-  - type: akmods
-    install: []
-    nvidia-driver: nvidia-open
-    
   - type: default-flatpaks
     configurations:
       - notify: false
