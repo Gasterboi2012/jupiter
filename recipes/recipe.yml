@@ -11,6 +11,8 @@ modules:
       - source: system
         destination: /
         
+  - type: initramfs 
+  
   - type: os-release
     properties:
       ID: jupiter
