@@ -34,7 +34,6 @@ modules:
         - brave-origin
         - steam
         - https://vencord.dev/download/vesktop/amd64/rpm
-        - https://github.com/wimpysworld/sidra/releases/download/1.1.1/Sidra-1.1.1-linux-x86_64.rpm
     remove:
       packages:
         - firefox
