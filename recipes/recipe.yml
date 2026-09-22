@@ -26,7 +26,8 @@ modules:
       
   - type: dnf
     repos:
-      copr: g3tchoo/prismlauncher
+      copr: 
+        - g3tchoo/prismlauncher
       nonfree: negativo17
       files:
         - https://brave-browser-rpm-release.s3.brave.com/brave-browser.repo
