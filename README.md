@@ -1,5 +1,7 @@
 # Jupiter 0.1/0.2a (Alpha)
 
+[![bluebuild build badge](https://github.com/gasterboi2012/jupiter/actions/workflows/build.yml/badge.svg)](https://github.com/gasterboi2012/jupiter/actions/workflows/build.yml)
+
 # PLACEHOLDER (W?)
 
 ## Installation
