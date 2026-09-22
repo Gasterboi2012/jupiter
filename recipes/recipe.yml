@@ -14,8 +14,7 @@ modules:
   - type: initramfs
   
   - type: akmods
-    install: 
-      - nvidia-open
+    install: []
     nvidia-driver: nvidia-open
     
   - type: os-release
